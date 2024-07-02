@@ -10,8 +10,22 @@ Los datos estan relacionados con el cultivo de cereales (trigo, maiz, avena, ent
  
 Este repositorio contiene una colección de consultas SQL relacionadas con la tabla `censoagropecuario`. 
 
-Nombres de las columnas :
-Establecimiento, Predio, Cut_region, Region, Cut_comuna, Comuna, Cut_especie, Especie, Superficieriego, Superficiesecano, Cut_tiporiego, Tiporiego, Superficietiporiego
+## Estructura de la tabla
+
+La tabla `censoagropecuario` tiene las siguientes columnas:
+- `Establecimiento`
+- `Predio`
+- `Cut_region`
+- `Region`
+- `Cut_comuna`
+- `Comuna`
+- `Cut_especie`
+- `Especie`
+- `Superficieriego`
+- `Superficiesecano`
+- `Cut_tiporiego`
+- `Tiporiego`
+- `Superficietiporiego`
 
 ## Consultas incluidas
 
