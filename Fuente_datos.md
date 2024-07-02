@@ -2,7 +2,7 @@
 
 Censo agropecuario 2021 Chile, seccion cereales
 
-El archico csv que use para este analisis fue descargado de la pagia del instituto nacional de estadistica (Chile)
+El archivo csv que use para este análisis fue descargado de la pagina del instituto nacional de estadística (Chile)
 https://www.ine.gob.cl/estadisticas/economia/agricultura-agroindustria-y-pesca/censos-agropecuarios
 
 Censo agropecuario > bases de datos > 2021 > actividad silvo agropecuaria > CSV > seccion_9_cereales.
