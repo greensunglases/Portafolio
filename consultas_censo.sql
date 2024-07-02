@@ -1,5 +1,6 @@
 -- Nombres de las columnas :
--- Establecimiento, Predio, Cut_region, Region, Cut_comuna, Comuna, Cut_especie, Especie, Superficieriego, Superficiesecano, Cut_tiporiego, Tiporiego, Superficietiporiego
+-- Establecimiento, Predio, Cut_region, Region, Cut_comuna, Comuna, Cut_especie, Especie, 
+-- Superficieriego, Superficiesecano, Cut_tiporiego, Tiporiego, Superficietiporiego
 
 -- Seleccionar todas las filas para visualizar la estructura y datos.
 SELECT * FROM censoagropecuario;
