@@ -9,8 +9,10 @@ Censo agropecuario > bases de datos > 2021 > actividad silvo agropecuaria > CSV 
 Los datos estan relacionados con el cultivo de cereales (trigo, maiz, avena, entre otros) en Chile (2021)
  
 Este repositorio contiene una colección de consultas SQL relacionadas con la tabla `censoagropecuario`. 
+
 Nombres de las columnas :
 Establecimiento, Predio, Cut_region, Region, Cut_comuna, Comuna, Cut_especie, Especie, Superficieriego, Superficiesecano, Cut_tiporiego, Tiporiego, Superficietiporiego
+
 ## Consultas incluidas
 
 1. Seleccionar todas las filas para visualizar la estructura y datos.
