@@ -1,13 +1,11 @@
-# Portafolio 1
-
-Censo agropecuario 2021 Chile, seccion cereales
+# Censo agropecuario 2021 Chile, seccion cereales. Superficie especies por región 
 
 El archivo csv que use para este análisis fue descargado de la pagina del instituto nacional de estadística (Chile)
 https://www.ine.gob.cl/estadisticas/economia/agricultura-agroindustria-y-pesca/censos-agropecuarios
 
 Censo agropecuario > bases de datos > 2021 > actividad silvo agropecuaria > CSV > seccion_9_cereales.
 
-Los datos estan relacionados con el cultivo de cereales (trigo, maiz, avena, entre otros) en Chile (2021)
+Los datos estan relacionados con el cultivo de cereales (trigo, maiz, avena, entre otros) y la superficie que cubre cada uno en cada región de Chile (2021) 
  
 Este repositorio contiene una colección de consultas SQL relacionadas con la tabla `censoagropecuario`. 
 
