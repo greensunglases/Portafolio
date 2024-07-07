@@ -11,6 +11,8 @@ Los datos estan relacionados con el cultivo de cereales (trigo, maiz, avena, ent
  
 Este repositorio contiene una colección de consultas SQL relacionadas con la tabla `censoagropecuario`. 
 
+La visualización de éste análisis se puede consultar en https://public.tableau.com/app/profile/ignacio.henriquez/vizzes
+
 Los nombres de algnuas columnas fueron renombrados siguiendo en el manual de usuario de base de datos, que se puede encontrar en la misma pagia web, esto con el fin de facilitar el manejo de las consultas. Ademas se cambio el formato de los elementos de la columna `Region`, para esto se uso la herramienta de buscar y reemplazar de hoja de calculo de Google.
 
 ## Estructura de la tabla
