@@ -2,6 +2,8 @@
 -- Establecimiento, Predio, Cut_region, Region, Cut_comuna, Comuna, Cut_especie, Especie, 
 -- Superficieriego, Superficiesecano, Cut_tiporiego, Tiporiego, Superficietiporiego
 
+--A continuación dejo algunas consultas que se pueden hacer con los datos del censo según sea la necesidad. Para generar el dashboard que pueden encontrar en mi perfil de tableau use la penultima consulta 
+
 -- Seleccionar todas las filas para visualizar la Tabla.
 SELECT * FROM censoagropecuario;
 
